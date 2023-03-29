@@ -1,0 +1,15 @@
+C:\Users\Sena\Desktop\Producto2POO\obj\Debug\net6.0\Producto2POO.csproj.AssemblyReference.cache
+C:\Users\Sena\Desktop\Producto2POO\obj\Debug\net6.0\Producto2POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sena\Desktop\Producto2POO\obj\Debug\net6.0\Producto2POO.AssemblyInfoInputs.cache
+C:\Users\Sena\Desktop\Producto2POO\obj\Debug\net6.0\Producto2POO.AssemblyInfo.cs
+C:\Users\Sena\Desktop\Producto2POO\obj\Debug\net6.0\Producto2POO.csproj.CoreCompileInputs.cache
+C:\Users\Sena\Desktop\Producto2POO\bin\Debug\net6.0\Producto2POO.exe
+C:\Users\Sena\Desktop\Producto2POO\bin\Debug\net6.0\Producto2POO.deps.json
+C:\Users\Sena\Desktop\Producto2POO\bin\Debug\net6.0\Producto2POO.runtimeconfig.json
+C:\Users\Sena\Desktop\Producto2POO\bin\Debug\net6.0\Producto2POO.dll
+C:\Users\Sena\Desktop\Producto2POO\bin\Debug\net6.0\Producto2POO.pdb
+C:\Users\Sena\Desktop\Producto2POO\obj\Debug\net6.0\Producto2POO.dll
+C:\Users\Sena\Desktop\Producto2POO\obj\Debug\net6.0\refint\Producto2POO.dll
+C:\Users\Sena\Desktop\Producto2POO\obj\Debug\net6.0\Producto2POO.pdb
+C:\Users\Sena\Desktop\Producto2POO\obj\Debug\net6.0\Producto2POO.genruntimeconfig.cache
+C:\Users\Sena\Desktop\Producto2POO\obj\Debug\net6.0\ref\Producto2POO.dll

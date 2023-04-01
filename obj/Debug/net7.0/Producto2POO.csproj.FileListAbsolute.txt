@@ -1,0 +1,15 @@
+C:\Users\juane\OneDrive\Desktop\Producto2POO\bin\Debug\net7.0\Producto2POO.exe
+C:\Users\juane\OneDrive\Desktop\Producto2POO\bin\Debug\net7.0\Producto2POO.deps.json
+C:\Users\juane\OneDrive\Desktop\Producto2POO\bin\Debug\net7.0\Producto2POO.runtimeconfig.json
+C:\Users\juane\OneDrive\Desktop\Producto2POO\bin\Debug\net7.0\Producto2POO.dll
+C:\Users\juane\OneDrive\Desktop\Producto2POO\bin\Debug\net7.0\Producto2POO.pdb
+C:\Users\juane\OneDrive\Desktop\Producto2POO\obj\Debug\net7.0\Producto2POO.csproj.AssemblyReference.cache
+C:\Users\juane\OneDrive\Desktop\Producto2POO\obj\Debug\net7.0\Producto2POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juane\OneDrive\Desktop\Producto2POO\obj\Debug\net7.0\Producto2POO.AssemblyInfoInputs.cache
+C:\Users\juane\OneDrive\Desktop\Producto2POO\obj\Debug\net7.0\Producto2POO.AssemblyInfo.cs
+C:\Users\juane\OneDrive\Desktop\Producto2POO\obj\Debug\net7.0\Producto2POO.csproj.CoreCompileInputs.cache
+C:\Users\juane\OneDrive\Desktop\Producto2POO\obj\Debug\net7.0\Producto2POO.dll
+C:\Users\juane\OneDrive\Desktop\Producto2POO\obj\Debug\net7.0\refint\Producto2POO.dll
+C:\Users\juane\OneDrive\Desktop\Producto2POO\obj\Debug\net7.0\Producto2POO.pdb
+C:\Users\juane\OneDrive\Desktop\Producto2POO\obj\Debug\net7.0\Producto2POO.genruntimeconfig.cache
+C:\Users\juane\OneDrive\Desktop\Producto2POO\obj\Debug\net7.0\ref\Producto2POO.dll
